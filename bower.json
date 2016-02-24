@@ -1,0 +1,5 @@
+{
+  "name": "xlsx-reader",
+  "version": "0.0.1",
+  "main": ["jszip.js", "xlsx-reader.js","xlsx.js"]
+}
